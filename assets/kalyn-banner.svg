@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kalyn — Building ideas into experiences</title>
+  <desc id="desc">An ink-black canvas with pink flowing paths linking AI, games, and creative tools.</desc>
+  <rect width="1200" height="320" rx="20" fill="#18171b"/>
+  <path d="M24 292H1176" stroke="#343038"/>
+  <g fill="none" stroke="#ef90b2" stroke-width="2">
+    <path d="M715 255C647 160 757 42 855 73S1001 284 1091 211 1187 91 1238 142"/>
+    <path d="M701 263C634 149 763 19 867 61S1009 300 1103 223 1197 105 1249 156" opacity=".25"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="57" font-size="17" letter-spacing="4" fill="#dba2b8">A PERSONAL WORKSHOP / lllkn</text>
+    <text x="51" y="181" font-size="116" font-weight="700" letter-spacing="-6" fill="#faf5f3">Kalyn<tspan fill="#ef90b2">.</tspan></text>
+    <text x="58" y="235" font-size="26" fill="#d1cbd0">Building ideas into experiences.</text>
+    <g font-size="17" letter-spacing="2" fill="#e5dce1">
+      <text x="747" y="132">AI</text>
+      <text x="916" y="252">GAMES</text>
+      <text x="1020" y="100">TOOLS</text>
+    </g>
+  </g>
+  <g fill="#18171b" stroke="#ef90b2" stroke-width="2">
+    <circle cx="756" cy="92" r="7"/>
+    <circle cx="952" cy="207" r="7"/>
+    <circle cx="1105" cy="200" r="7"/>
+  </g>
+  <circle cx="1138" cy="55" r="4" fill="#ef90b2"/>
+</svg>
